@@ -1,2 +1,6 @@
 Hi I am adding from master
+<<<<<<< HEAD
 I master adding from branch1
+=======
+I branch1 adding from branch1
+>>>>>>> branch1
